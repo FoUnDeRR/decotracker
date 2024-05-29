@@ -403,5 +403,30 @@
         "id": "1237937696991740044",
         "type": 2,
         "name": "pirates_logo"
+    },
+    {
+        "id": "1245086730785390793",
+        "type": 2,
+        "name": "arcade_logo"
+    },
+    {
+        "id": "1245087533205819452",
+        "type": 2,
+        "name": "arcade_banner"
+    },
+    {
+        "id": "1245087580463173734",
+        "type": 2,
+        "name": "arcade_mobile"
+    },
+    {
+        "id": "1245087599966683227",
+        "type": 2,
+        "name": "arcade_pdp"
+    },
+    {
+        "id": "1245087618069168150",
+        "type": 2,
+        "name": "arcade_mobile_banner"
     }
 ]
