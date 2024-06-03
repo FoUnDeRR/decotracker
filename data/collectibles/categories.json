@@ -113,7 +113,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1232071157746765906",
@@ -200,7 +201,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1232071712695386162",
@@ -287,7 +289,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1232072121950146560",
@@ -374,7 +377,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1232072520249643028",
@@ -461,7 +465,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1232072859485208687",
@@ -548,7 +553,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1232073286582538261",
@@ -633,7 +639,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1232073448415821854",
@@ -718,7 +725,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1232073608168472638",
@@ -803,7 +811,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1232029045928099922"
+                "category_sku_id": "1232029045928099922",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -923,7 +932,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1228251144065777765",
@@ -1011,7 +1021,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1228251351415263242",
@@ -1099,7 +1110,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1228251846032756796",
@@ -1187,7 +1199,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1228252042791878707",
@@ -1275,7 +1288,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1228252219502100530",
@@ -1363,7 +1377,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1228233390260486164",
@@ -1449,7 +1464,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1228234634379132958",
@@ -1535,7 +1551,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1228237157554978817",
@@ -1621,7 +1638,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1228243842684162121"
+                "category_sku_id": "1228243842684162121",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -1741,7 +1759,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1212569856189407352",
@@ -1829,7 +1848,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1212570343567261736",
@@ -1917,7 +1937,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1212570596970467378",
@@ -2005,7 +2026,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1212581147675205652",
@@ -2093,7 +2115,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1212581390936178768",
@@ -2181,7 +2204,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1154896005045694555",
@@ -2269,7 +2293,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144305233707671573",
@@ -2357,7 +2382,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144307257807491094",
@@ -2445,7 +2471,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144307629225672846",
@@ -2533,7 +2560,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144307957425778779",
@@ -2621,7 +2649,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144308196723408958",
@@ -2709,7 +2738,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144308439720394944",
@@ -2797,7 +2827,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1212582298893946880",
@@ -2883,7 +2914,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1212582372877541427",
@@ -2969,7 +3001,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1212582452640350238",
@@ -3055,7 +3088,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323100568244355",
@@ -3141,7 +3175,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323093551165533",
@@ -3227,7 +3262,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323101008642101",
@@ -3313,7 +3349,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323101881061466",
@@ -3399,7 +3436,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1212565175790473246"
+                "category_sku_id": "1212565175790473246",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -3517,7 +3555,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1207047597294886923",
@@ -3604,7 +3643,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1207047808838799410",
@@ -3691,7 +3731,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1207048049571139584",
@@ -3778,7 +3819,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1207048289610899526",
@@ -3865,7 +3907,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1207048656289534022",
@@ -3952,7 +3995,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1207049115339591681",
@@ -4037,7 +4081,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1207049364464345158",
@@ -4122,7 +4167,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1207049498065375343",
@@ -4207,7 +4253,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1207046915880124426"
+                "category_sku_id": "1207046915880124426",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -4325,7 +4372,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1197342727608746044"
+                "category_sku_id": "1197342727608746044",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1197344396983664670",
@@ -4412,7 +4460,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1197342727608746044"
+                "category_sku_id": "1197342727608746044",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1197344575832981605",
@@ -4499,7 +4548,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1197342727608746044"
+                "category_sku_id": "1197342727608746044",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1197344636558114986",
@@ -4586,7 +4636,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1197342727608746044"
+                "category_sku_id": "1197342727608746044",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1197344693630009424",
@@ -4671,7 +4722,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1197342727608746044"
+                "category_sku_id": "1197342727608746044",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1197344764174008452",
@@ -4756,7 +4808,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1197342727608746044"
+                "category_sku_id": "1197342727608746044",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -4875,7 +4928,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144006094134456352",
@@ -4963,7 +5017,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144046002110738634",
@@ -5051,7 +5106,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144048390594908212",
@@ -5139,7 +5195,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144048977138946230",
@@ -5227,7 +5284,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144049316009353338",
@@ -5315,7 +5373,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144049603109470370",
@@ -5403,7 +5462,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144049924397334651",
@@ -5491,7 +5551,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323092645183591",
@@ -5577,7 +5638,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323093991575696",
@@ -5663,7 +5725,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323099251232828",
@@ -5749,7 +5812,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323099687436419",
@@ -5835,7 +5899,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1144003461608906824"
+                "category_sku_id": "1144003461608906824",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -5953,7 +6018,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237649643073044491"
+                "category_sku_id": "1237649643073044491",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237650023794081823",
@@ -6040,7 +6106,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237649643073044491"
+                "category_sku_id": "1237649643073044491",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237650103980920872",
@@ -6127,7 +6194,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237649643073044491"
+                "category_sku_id": "1237649643073044491",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237650179721527347",
@@ -6214,7 +6282,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237649643073044491"
+                "category_sku_id": "1237649643073044491",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237650411410685972",
@@ -6299,7 +6368,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1237649643073044491"
+                "category_sku_id": "1237649643073044491",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237650542772228096",
@@ -6384,7 +6454,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1237649643073044491"
+                "category_sku_id": "1237649643073044491",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237650618777075712",
@@ -6469,7 +6540,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1237649643073044491"
+                "category_sku_id": "1237649643073044491",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -6587,7 +6659,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237654031732703272",
@@ -6674,7 +6747,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237654124443734026",
@@ -6761,7 +6835,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237654224712765440",
@@ -6848,7 +6923,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237654615474962472",
@@ -6935,7 +7011,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237654692985700352",
@@ -7022,7 +7099,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237654783209508904",
@@ -7107,7 +7185,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237654867330469949",
@@ -7192,7 +7271,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1237654942202990602",
@@ -7277,7 +7357,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1237653589896200272"
+                "category_sku_id": "1237653589896200272",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -7397,7 +7478,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1217625289681801316",
@@ -7485,7 +7567,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1217625572168044604",
@@ -7573,7 +7656,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1217625794382401577",
@@ -7661,7 +7745,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1217626024540508170",
@@ -7749,7 +7834,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1217626219651006495",
@@ -7837,7 +7923,8 @@
                 ],
                 "type": 0,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1217626509737459852",
@@ -7923,7 +8010,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1217627051217911848",
@@ -8009,7 +8097,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1217627230818009171",
@@ -8095,7 +8184,8 @@
                 ],
                 "type": 1,
                 "premium_type": 0,
-                "category_sku_id": "1217622942175727736"
+                "category_sku_id": "1217622942175727736",
+                "google_sku_ids": {}
             }
         ]
     },
@@ -8210,7 +8300,8 @@
                 ],
                 "type": 0,
                 "premium_type": 2,
-                "category_sku_id": "1144058340327047249"
+                "category_sku_id": "1144058340327047249",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144058844004233369",
@@ -8296,7 +8387,8 @@
                 ],
                 "type": 0,
                 "premium_type": 2,
-                "category_sku_id": "1144058340327047249"
+                "category_sku_id": "1144058340327047249",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1144059132517826601",
@@ -8382,7 +8474,8 @@
                 ],
                 "type": 0,
                 "premium_type": 2,
-                "category_sku_id": "1144058340327047249"
+                "category_sku_id": "1144058340327047249",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323098370424932",
@@ -8466,7 +8559,8 @@
                 ],
                 "type": 1,
                 "premium_type": 2,
-                "category_sku_id": "1144058340327047249"
+                "category_sku_id": "1144058340327047249",
+                "google_sku_ids": {}
             },
             {
                 "sku_id": "1139323103193878569",
@@ -8550,7 +8644,8 @@
                 ],
                 "type": 1,
                 "premium_type": 2,
-                "category_sku_id": "1144058340327047249"
+                "category_sku_id": "1144058340327047249",
+                "google_sku_ids": {}
             }
         ]
     }
