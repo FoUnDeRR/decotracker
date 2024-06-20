@@ -428,5 +428,30 @@
         "id": "1245087618069168150",
         "type": 2,
         "name": "arcade_mobile_banner"
+    },
+    {
+        "id": "1252404115686948925",
+        "type": 2,
+        "name": "tide_logo"
+    },
+    {
+        "id": "1252404118509719682",
+        "type": 2,
+        "name": "tide_banner"
+    },
+    {
+        "id": "1252404121252925514",
+        "type": 2,
+        "name": "tide_mobile"
+    },
+    {
+        "id": "1252404123844870224",
+        "type": 2,
+        "name": "tide_pdp"
+    },
+    {
+        "id": "1252404126801727579",
+        "type": 2,
+        "name": "tide_mobile_banner"
     }
 ]
